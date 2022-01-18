@@ -1,6 +1,6 @@
 const stringLength = require('./string');
-const capitalizedString = require('./capitalize');
 const reverseString = require('./reverseString');
+const capitalizedString = require('./capitalize');
 const Calculator = require('./calculator');
 
 test('Should return length of string', () => {
